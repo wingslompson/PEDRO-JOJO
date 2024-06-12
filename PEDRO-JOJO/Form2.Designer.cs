@@ -64,7 +64,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::PEDRO_JOJO.Properties.Resources.jotaro1;
-            this.ClientSize = new System.Drawing.Size(524, 283);
+            this.ClientSize = new System.Drawing.Size(526, 284);
             this.ControlBox = false;
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
