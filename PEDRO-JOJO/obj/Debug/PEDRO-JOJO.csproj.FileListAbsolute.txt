@@ -2,7 +2,6 @@ C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\bin\Debug\PEDRO-J
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\bin\Debug\PEDRO-JOJO.exe
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\bin\Debug\PEDRO-JOJO.pdb
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.AssemblyReference.cache
-C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.SuggestedBindingRedirects.cache
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form1.resources
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Properties.Resources.resources
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.GenerateResource.cache
@@ -10,3 +9,4 @@ C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-J
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.exe
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.pdb
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form2.resources
+C:\Users\Aluno\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form3.resources
