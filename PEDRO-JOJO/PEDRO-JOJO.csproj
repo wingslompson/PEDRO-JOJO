@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>PngItem_832342.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -109,6 +112,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\capa botao].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Design sem nome %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Design sem nome1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\Design sem nome %284%29.png" />
+    <None Include="Resources\Design sem nome %283%29.png" />
+    <None Include="Resources\pngwing.com.png" />
+    <None Include="Resources\JoJo%27s_Bizarre_Adventure_logo.png" />
+    <None Include="Resources\Design sem nome %282%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
