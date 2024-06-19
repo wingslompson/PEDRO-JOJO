@@ -121,6 +121,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\JJJJ-removebg.png" />
     <None Include="Resources\Design sem nome %284%29.png" />
     <None Include="Resources\Design sem nome %283%29.png" />
     <None Include="Resources\pngwing.com.png" />

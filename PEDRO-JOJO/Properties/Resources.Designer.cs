@@ -133,6 +133,16 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap JJJJ_removebg {
+            get {
+                object obj = ResourceManager.GetObject("JJJJ-removebg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap JoJo_s_Bizarre_Adventure_logo {
             get {
                 object obj = ResourceManager.GetObject("JoJo\'s_Bizarre_Adventure_logo", resourceCulture);
