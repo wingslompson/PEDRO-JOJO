@@ -19,6 +19,11 @@ namespace PEDRO_JOJO
 
         private void INICIAR_Click(object sender, EventArgs e)
         {
+           
+        }
+
+        private void button_WOC1_Click(object sender, EventArgs e)
+        {
             Form form3 = new Form3();
             form3.Show();
             this.Hide();
