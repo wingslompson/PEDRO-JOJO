@@ -26,5 +26,28 @@ namespace PEDRO_JOJO
         {
 
         }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            comboBox1.Items.Add("Parte 1");
+            comboBox1.Items.Add("Parte 2");
+            comboBox1.Items.Add("Parte 3");
+            comboBox1.Items.Add("Parte 4");
+            comboBox1.Items.Add("Parte 5");
+            comboBox1.Items.Add("Parte 6");
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+        }
+        
+
+
     }
 }
