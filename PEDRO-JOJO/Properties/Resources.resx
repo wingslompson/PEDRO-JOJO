@@ -118,40 +118,76 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Design sem nome (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Design sem nome (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Design sem nome (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design sem nome (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="jotaro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jotaro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="p4 poster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p4 poster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Design sem nome (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Design sem nome (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Design sem nome1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Design sem nome1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="jotaro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\jotaro1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="capa botao]" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\capa botao].png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Design sem nome (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Design sem nome (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Design sem nome (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Design sem nome (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Design sem nome" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Design sem nome.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="JoJo's_Bizarre_Adventure_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\JoJo's_Bizarre_Adventure_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="poster p1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poster p1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Design sem nome1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design sem nome1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="capa botao]" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\capa botao].png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Design sem nome (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design sem nome (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poster p2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poster p2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jotaro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jotaro1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jotaro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jotaro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Design sem nome" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design sem nome.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poster p3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poster p3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="JJJJ-removebg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\JJJJ-removebg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Design sem nome (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design sem nome (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poster p6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poster p6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poster p5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poster p5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1 george" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1 george.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1 erina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1 erina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1 dio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1 dio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1 jonathan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1 jonathan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1 speedwagon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1 speedwagon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p1 zepeli" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p1 zepeli.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

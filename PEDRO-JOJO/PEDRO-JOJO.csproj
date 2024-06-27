@@ -124,6 +124,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\p1 zepeli.png" />
+    <None Include="Resources\p1 speedwagon.png" />
+    <None Include="Resources\p1 jonathan.png" />
+    <None Include="Resources\p1 dio.png" />
+    <None Include="Resources\p1 erina.png" />
+    <None Include="Resources\p1 george.png" />
+    <None Include="Resources\poster p6.jpg" />
+    <None Include="Resources\poster p5.jpg" />
+    <None Include="Resources\poster p3.jpg" />
+    <None Include="Resources\poster p2.jpg" />
+    <None Include="Resources\poster p1.jpg" />
+    <None Include="Resources\p4 poster.png" />
     <None Include="Resources\JJJJ-removebg.png" />
     <None Include="Resources\Design sem nome %284%29.png" />
     <None Include="Resources\Design sem nome %283%29.png" />
