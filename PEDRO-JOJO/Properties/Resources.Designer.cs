@@ -73,6 +73,26 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap congelamento {
+            get {
+                object obj = ResourceManager.GetObject("congelamento", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap congelamento1 {
+            get {
+                object obj = ResourceManager.GetObject("congelamento1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Design_sem_nome {
             get {
                 object obj = ResourceManager.GetObject("Design sem nome", resourceCulture);
@@ -133,6 +153,26 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gif_p1 {
+            get {
+                object obj = ResourceManager.GetObject("gif p1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hamon {
+            get {
+                object obj = ResourceManager.GetObject("hamon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap JJJJ_removebg {
             get {
                 object obj = ResourceManager.GetObject("JJJJ-removebg", resourceCulture);
@@ -166,6 +206,56 @@ namespace PEDRO_JOJO.Properties {
         internal static System.Drawing.Bitmap jotaro1 {
             get {
                 object obj = ResourceManager.GetObject("jotaro1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Luck_Pluck {
+            get {
+                object obj = ResourceManager.GetObject("Luck&Pluck", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Luck_Pluck1 {
+            get {
+                object obj = ResourceManager.GetObject("Luck&Pluck1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mascara {
+            get {
+                object obj = ResourceManager.GetObject("mascara", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap overdrive {
+            get {
+                object obj = ResourceManager.GetObject("overdrive", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap overdrive1 {
+            get {
+                object obj = ResourceManager.GetObject("overdrive1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,6 +333,16 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap planar {
+            get {
+                object obj = ResourceManager.GetObject("planar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pngwing_com {
             get {
                 object obj = ResourceManager.GetObject("pngwing.com", resourceCulture);
@@ -296,6 +396,16 @@ namespace PEDRO_JOJO.Properties {
         internal static System.Drawing.Bitmap poster_p6 {
             get {
                 object obj = ResourceManager.GetObject("poster p6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wryyyyyy {
+            get {
+                object obj = ResourceManager.GetObject("wryyyyyy", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

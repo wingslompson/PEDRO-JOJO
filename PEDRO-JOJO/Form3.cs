@@ -42,12 +42,31 @@ namespace PEDRO_JOJO
             comboBox1.Items.Add("Parte 4");
             comboBox1.Items.Add("Parte 5");
             comboBox1.Items.Add("Parte 6");
+
+            listBox1.Items.Add("História");
+            listBox1.Items.Add("Curiosidades");
+
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (comboBox1.SelectedIndex == 0) 
             {
+                pictureBox5.Image = null;
+                pictureBox6.Image = null;
+                pictureBox7.Image = null;
+                pictureBox8.Image = null;
+                pictureBox9.Image = null;
+                pictureBox10.Image = null;
+                pictureBox11.Image = null;
+                pictureBox12.Image = null;
+                label1.Text = "";
+                label2.Text = "";
+
+
+
+
                 //adiciona a imagem a pixture box
                 pictureBox3.Image = Properties.Resources.poster_p1;
 
@@ -65,6 +84,19 @@ namespace PEDRO_JOJO
                 radioButton5.Text = "Erina";
                 radioButton6.Text = "George";
 
+                //checkbox
+
+                checkBox1.Text = "Máscara";
+                checkBox2.Text = "Pluck";
+                checkBox3.Text = "Hamon";
+                checkBox4.Text = "Congelar";
+                checkBox5.Text = "Overdrive";
+                checkBox6.Text = "Planar";
+
+                
+
+
+
 
 
 
@@ -72,6 +104,18 @@ namespace PEDRO_JOJO
             else if (comboBox1.SelectedIndex == 1) 
             {
                 pictureBox3.Image = Properties.Resources.poster_p2;
+
+                pictureBox5.Image = null;
+                pictureBox6.Image = null;
+                pictureBox7.Image = null;
+                pictureBox8.Image = null;
+                pictureBox9.Image = null;
+                pictureBox10.Image = null;
+                pictureBox11.Image = null;
+                pictureBox12.Image = null;
+                label1.Text = "";
+                label2.Text = "";
+
 
                 //torna as group box visiveis
                 groupBox2.Visible = true;
@@ -82,6 +126,18 @@ namespace PEDRO_JOJO
             {
                 pictureBox3.Image = Properties.Resources.poster_p3;
 
+                pictureBox5.Image = null;
+                pictureBox6.Image = null;
+                pictureBox7.Image = null;
+                pictureBox8.Image = null;
+                pictureBox9.Image = null;
+                pictureBox10.Image = null;
+                pictureBox11.Image = null;
+                pictureBox12.Image = null;
+                label1.Text = "";
+                label2.Text = "";
+
+
                 //torna as group box visiveis
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
@@ -90,6 +146,18 @@ namespace PEDRO_JOJO
             else if (comboBox1.SelectedIndex == 3) 
             {
                 pictureBox3.Image = Properties.Resources.p4_poster;
+
+                pictureBox5.Image = null;
+                pictureBox6.Image = null;
+                pictureBox7.Image = null;
+                pictureBox8.Image = null;
+                pictureBox9.Image = null;
+                pictureBox10.Image = null;
+                pictureBox11.Image = null;
+                pictureBox12.Image = null;
+                label1.Text = "";
+                label2.Text = "";
+
 
                 //torna as group box visiveis
                 groupBox2.Visible = true;
@@ -100,6 +168,18 @@ namespace PEDRO_JOJO
             {
                 pictureBox3.Image = Properties.Resources.poster_p5;
 
+                pictureBox5.Image = null;
+                pictureBox6.Image = null;
+                pictureBox7.Image = null;
+                pictureBox8.Image = null;
+                pictureBox9.Image = null;
+                pictureBox10.Image = null;
+                pictureBox11.Image = null;
+                pictureBox12.Image = null;
+                label1.Text = "";
+                label2.Text = "";
+
+
                 //torna as group box visiveis
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
@@ -108,6 +188,18 @@ namespace PEDRO_JOJO
             else if (comboBox1.SelectedIndex == 5) 
             {
                 pictureBox3.Image = Properties.Resources.poster_p6;
+
+                pictureBox5.Image = null;
+                pictureBox6.Image = null;
+                pictureBox7.Image = null;
+                pictureBox8.Image = null;
+                pictureBox9.Image = null;
+                pictureBox10.Image = null;
+                pictureBox11.Image = null;
+                pictureBox12.Image = null;
+                label1.Text = "";
+                label2.Text = "";
+
 
                 //torna as group box visiveis
                 groupBox2.Visible = true;
@@ -215,6 +307,95 @@ namespace PEDRO_JOJO
                 {
                     label1.Text = null;
                     pictureBox5.Image = null;
+
+                }
+            }
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if(comboBox1.SelectedIndex == 0)
+            {
+                pictureBox7.Image = Properties.Resources.mascara;
+                if (checkBox1.Checked == false)
+                {
+                 
+                    pictureBox7.Image = null;
+
+                }
+            }
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox8.Image = Properties.Resources.Luck_Pluck1;
+                if (checkBox2.Checked == false)
+                {
+
+                    pictureBox8.Image = null;
+
+                }
+            }
+        }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox9.Image = Properties.Resources.hamon;
+                if (checkBox3.Checked == false)
+                {
+
+                    pictureBox9.Image = null;
+
+                }
+            }
+        }
+
+        private void checkBox5_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox10.Image = Properties.Resources.overdrive1;
+                if (checkBox5.Checked == false)
+                {
+
+                    pictureBox10.Image = null;
+
+                }
+            }
+        }
+
+        private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox11.Image = Properties.Resources.congelamento1;
+                if (checkBox4.Checked == false)
+                {
+
+                    pictureBox11.Image = null;
+
+                }
+            }
+        }
+
+        private void checkBox6_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox12.Image = Properties.Resources.planar;
+                if (checkBox6.Checked == false)
+                {
+
+                    pictureBox12.Image = null;
 
                 }
             }

@@ -124,6 +124,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\wryyyyyy.gif" />
+    <None Include="Resources\gif p1.gif" />
+    <None Include="Resources\overdrive1.png" />
+    <None Include="Resources\Luck&amp;Pluck1.png" />
+    <None Include="Resources\congelamento1.png" />
+    <None Include="Resources\planar.jpg" />
+    <None Include="Resources\overdrive.png" />
+    <None Include="Resources\mascara.png" />
+    <None Include="Resources\Luck&amp;Pluck.png" />
+    <None Include="Resources\hamon.jpg" />
+    <None Include="Resources\congelamento.png" />
     <None Include="Resources\p1 zepeli.png" />
     <None Include="Resources\p1 speedwagon.png" />
     <None Include="Resources\p1 jonathan.png" />
