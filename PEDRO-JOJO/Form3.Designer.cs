@@ -304,6 +304,7 @@
             // 
             // groupBox4
             // 
+            this.groupBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupBox4.BackColor = System.Drawing.Color.Transparent;
             this.groupBox4.Controls.Add(this.label1);
             this.groupBox4.Controls.Add(this.radioButton6);
@@ -343,6 +344,7 @@
             this.radioButton6.TabStop = true;
             this.radioButton6.Text = "radioButton6";
             this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioButton6.CheckedChanged += new System.EventHandler(this.radioButton6_CheckedChanged);
             // 
             // pictureBox5
             // 
@@ -365,6 +367,7 @@
             this.radioButton5.TabStop = true;
             this.radioButton5.Text = "radioButton5";
             this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioButton5.CheckedChanged += new System.EventHandler(this.radioButton5_CheckedChanged);
             // 
             // radioButton4
             // 
@@ -378,6 +381,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "radioButton4";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -426,7 +430,7 @@
             // 
             this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox1.Image = global::PEDRO_JOJO.Properties.Resources.Design_sem_nome__4_;
-            this.pictureBox1.Location = new System.Drawing.Point(661, -4);
+            this.pictureBox1.Location = new System.Drawing.Point(661, -30);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(342, 176);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

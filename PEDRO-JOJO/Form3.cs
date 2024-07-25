@@ -157,7 +157,67 @@ namespace PEDRO_JOJO
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox5.Image = Properties.Resources.p1_zepeli;
 
+                label1.Text = "Will Anthonio Zeppeli (ウィル・ Ａ・ツェペリ (ウィル・アントニオ ・ツェペリ) Wiru Antonio Tseperi), também conhecido como Baron Zeppeli (ツェペリ男爵 Tseperi Danshaku), é o deuteragonista apresentado em Phantom Blood.Zeppeli é um mestre Hamon vindo da Itália que procura a Máscara de Pedra para destruí-la.\r\n\r\n Ouvindo sobre Dio Brando, ele se torna o mentor de Jonathan e o ensina na arte do Hamon, bem como luta ao lado dele.";
+                if (radioButton3.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox5.Image = Properties.Resources.p1_speedwagon;
+
+                label1.Text = "Robert E. O. Speedwagon (ロバート・E・O・スピードワゴン Robāto Ī Ō Supīdowagon) é um aliado central apresentado em Phantom Blood e um aliado menor em Battle Tendency.\r\n\r\nInicialmente apresentado como um inimigo que reside na Rua Ogre, acaba sendo derrotado por Jonathan Joestar, a quem ele se torna leal e passa a acompanhar durante sua jornada. Mesmo após a morte de Jonathan, ele continua servindo a família Joestar.";
+                if (radioButton4.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+        }
+
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox5.Image = Properties.Resources.p1_erina;
+
+                label1.Text = "Erina Pendleton (エリナ・ペンドルトン Erina Pendoruton) é uma personagem secundária e aliada que aparece em Phantom Blood e Battle Tendency.\r\n\r\nErina é uma jovem da cidade natal de Jonathan Joestar, que se torna seu interesse amoroso e ela eventualmente se torna sua esposa (o que agora a torna Erina Joestar ), a mãe de George Joestar II e a avó/tutora de Joseph Joestar.";
+                if (radioButton5.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+        }
+
+        private void radioButton6_CheckedChanged(object sender, EventArgs e)
+        {
+
+            if (comboBox1.SelectedIndex == 0)
+            {
+                pictureBox5.Image = Properties.Resources.p1_george;
+
+                label1.Text = "George Joestar (ジョージ・ジョースター Jōji Jōsutā) é um personagem secundário apresentado em Phantom Blood.\r\n\r\nGeorge é o pai de Jonathan Joestar. e após um trágico mal-entendido, adota Dio Brando em sua família, dando início aos acontecimentos da série.";
+                if (radioButton6.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
         }
     }
 }

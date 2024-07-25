@@ -10,4 +10,3 @@ C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-J
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.pdb
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form2.resources
 C:\Users\Aluno\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form3.resources
-C:\Users\Aluno\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.SuggestedBindingRedirects.cache
