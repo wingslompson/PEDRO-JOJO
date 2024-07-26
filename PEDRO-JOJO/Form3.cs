@@ -34,7 +34,7 @@ namespace PEDRO_JOJO
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            //adiciona intens a combo box
+            //adiciona intens a combo box e list box
 
             comboBox1.Items.Add("Parte 1");
             comboBox1.Items.Add("Parte 2");
@@ -53,6 +53,7 @@ namespace PEDRO_JOJO
         {
             if (comboBox1.SelectedIndex == 0) 
             {
+                //limpa todas as labels e pictures box
                 pictureBox5.Image = null;
                 pictureBox6.Image = null;
                 pictureBox7.Image = null;
@@ -216,12 +217,14 @@ namespace PEDRO_JOJO
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
+            
             if(comboBox1.SelectedIndex == 0 )
             {
                pictureBox5.Image = Properties.Resources.p1_jonathan;
 
                    label1.Text = "Jonathan Joestar (ジョナサン・ジョースター Jonasan Jōsutā) é o protagonista de Phantom Blood e o primeiro JoJo da série JoJo's Bizarre Adventure.\r\n\r\nFilho de George Joestar I, Jonathan é um homem honesto, gentil e positivo, cuja vida está repleta de tragédias após conhecer seu irmão mais velho adotivo, Dio Brando. Em sua batalha contra Dio, Jonathan se torna um usuário do Hamon sob a tutela de Will Anthonio Zeppeli.";
                 
+                //quando o radio button nao estiver marcado vai limpar a label e picture box
                 if (radioButton1.Checked == false) {
                     label1.Text = null;
                     pictureBox5.Image = null;
@@ -314,7 +317,23 @@ namespace PEDRO_JOJO
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
+            if (comboBox1.SelectedIndex == 0)
+            {
+                if(listBox1.SelectedIndex  == 0)
+                {
+                    label2.Text = "Jonathan é o herdeiro único de uma notória família da aristocracia britânica, os Joestar. Tudo o que o jovem queria era ser um cavalheiro e viver de forma tranquila e despreocupada. Porém, seus pacatos dias estão para acabar, pois a chegada do “invasor” Dio Brando fará tudo virar de cabeça para baixo. Além de sofrer diariamente nas mãos de Dio, ainda há a presença sombria de uma misteriosa Máscara de Pedra...";
+                    pictureBox6.Image = Properties.Resources.gif_p1;
+                }
+
+                if (listBox1.SelectedIndex == 1)
+                {
+                    label2.Text = "Araki afirmou que suas inspirações para Phantom Blood foram o mangá Fist of the North Star e o romance Bram Stoker's Dracula.";
+                    pictureBox6.Image = Properties.Resources.wryyyyyy;
+                }
+
+
+            }
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
