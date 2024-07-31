@@ -122,6 +122,24 @@ namespace PEDRO_JOJO
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
                 groupBox4.Visible = true;
+
+                //radio button
+
+                radioButton1.Text = "Joseph";
+                radioButton2.Text = "Ceasar";
+                radioButton3.Text = "Lisa Lisa";
+                radioButton4.Text = "Kars";
+                radioButton5.Text = "Stroheim";
+                radioButton6.Text = "Esidisi";
+
+                //checkbox
+
+                checkBox1.Text = "Hamon";
+                checkBox2.Text = "Bolhas";
+                checkBox3.Text = "Bat Beg";
+                checkBox4.Text = "Pedra Vermelha";
+                checkBox5.Text = "Tempestada de Areia";
+                checkBox6.Text = "Manipulação de Sangue";
             }
             else if (comboBox1.SelectedIndex == 2 ) 
             {
@@ -143,6 +161,24 @@ namespace PEDRO_JOJO
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
                 groupBox4.Visible = true;
+
+                //radio button
+
+                radioButton1.Text = "Jotaro";
+                radioButton2.Text = "Dio";
+                radioButton3.Text = "Kakyoin";
+                radioButton4.Text = "Polnareff";
+                radioButton5.Text = "Avdol";
+                radioButton6.Text = "Iggy";
+
+                //checkbox
+
+                checkBox1.Text = "Star Platinum";
+                checkBox2.Text = "Hierophant Green";
+                checkBox3.Text = "Silver Chariot";
+                checkBox4.Text = "The World";
+                checkBox5.Text = "Magicans Red";
+                checkBox6.Text = "The Fool";
             }
             else if (comboBox1.SelectedIndex == 3) 
             {
@@ -164,6 +200,25 @@ namespace PEDRO_JOJO
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
                 groupBox4.Visible = true;
+
+                //radio button
+
+                radioButton1.Text = "Josuke";
+                radioButton2.Text = "Koichi";
+                radioButton3.Text = "Okuyasu";
+                radioButton4.Text = "Rohan";
+                radioButton5.Text = "Jotaro";
+                radioButton6.Text = "Kira";
+
+                //checkbox
+
+                checkBox1.Text = "Crazy Diamond";
+                checkBox2.Text = "Echoes";
+                checkBox3.Text = "The Hand";
+                checkBox4.Text = "Heavens Door";
+                checkBox5.Text = "Star Platinum";
+                checkBox6.Text = "Killer Queen";
+
             }
             else if (comboBox1.SelectedIndex == 4) 
             {

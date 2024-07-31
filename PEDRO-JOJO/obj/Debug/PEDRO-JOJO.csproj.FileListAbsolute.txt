@@ -10,3 +10,15 @@ C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-J
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.pdb
 C:\Users\Aluno\source\repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form2.resources
 C:\Users\Aluno\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form3.resources
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\bin\Debug\PEDRO-JOJO.exe.config
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\bin\Debug\PEDRO-JOJO.exe
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\bin\Debug\PEDRO-JOJO.pdb
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.AssemblyReference.cache
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form1.resources
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form2.resources
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Form3.resources
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO_JOJO.Properties.Resources.resources
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.GenerateResource.cache
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.csproj.CoreCompileInputs.cache
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.exe
+C:\Users\giobe\Source\Repos\wingslompson\PEDRO-JOJO\PEDRO-JOJO\obj\Debug\PEDRO-JOJO.pdb
