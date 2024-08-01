@@ -124,6 +124,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\p2 stroiheim.png" />
+    <None Include="Resources\p2 Lisa Lisa.png" />
+    <None Include="Resources\p2 kars.png" />
+    <None Include="Resources\p2 joseph.png" />
+    <None Include="Resources\p2 esidisi.png" />
+    <None Include="Resources\p2 ceasar.png" />
     <None Include="Resources\wryyyyyy.gif" />
     <None Include="Resources\gif p1.gif" />
     <None Include="Resources\overdrive1.png" />

@@ -137,9 +137,9 @@ namespace PEDRO_JOJO
                 checkBox1.Text = "Hamon";
                 checkBox2.Text = "Bolhas";
                 checkBox3.Text = "Bat Beg";
-                checkBox4.Text = "Pedra Vermelha";
-                checkBox5.Text = "Tempestada de Areia";
-                checkBox6.Text = "Manipulação de Sangue";
+                checkBox4.Text = "Red Stone";
+                checkBox5.Text = "Tempestade";
+                checkBox6.Text = "Manipulação";
             }
             else if (comboBox1.SelectedIndex == 2 ) 
             {
@@ -174,7 +174,7 @@ namespace PEDRO_JOJO
                 //checkbox
 
                 checkBox1.Text = "Star Platinum";
-                checkBox2.Text = "Hierophant Green";
+                checkBox2.Text = "Hierophant";
                 checkBox3.Text = "Silver Chariot";
                 checkBox4.Text = "The World";
                 checkBox5.Text = "Magicans Red";
@@ -240,6 +240,26 @@ namespace PEDRO_JOJO
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
                 groupBox4.Visible = true;
+
+                //radio button
+
+                radioButton1.Text = "Giorno";
+                radioButton2.Text = "Bucciarati";
+                radioButton3.Text = "Mista";
+                radioButton4.Text = "Narancia";
+                radioButton5.Text = "Abbacchio";
+                radioButton6.Text = "Diavolo";
+
+                //checkbox
+
+                checkBox1.Text = "Golden Experience";
+                checkBox2.Text = "Sticky Fingers";
+                checkBox3.Text = "Sex Pistols";
+                checkBox4.Text = "Aerosmith";
+                checkBox5.Text = "Moody Blues";
+                checkBox6.Text = "King Crimison";
+
+
             }
             else if (comboBox1.SelectedIndex == 5) 
             {
@@ -261,6 +281,23 @@ namespace PEDRO_JOJO
                 groupBox2.Visible = true;
                 groupBox3.Visible = true;
                 groupBox4.Visible = true;
+
+
+                radioButton1.Text = "Jolyne";
+                radioButton2.Text = "Hermes";
+                radioButton3.Text = "Foo Fighters";
+                radioButton4.Text = "Anasui";
+                radioButton5.Text = "Weathear";
+                radioButton6.Text = "Pucci";
+
+                //checkbox
+
+                checkBox1.Text = "Stone Free";
+                checkBox2.Text = "Kiss";
+                checkBox3.Text = "Foo Fighters";
+                checkBox4.Text = "Aerosmith";
+                checkBox5.Text = "Diver Down";
+                checkBox6.Text = "Made Heaven";
 
             }
         }
@@ -286,6 +323,13 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if(comboBox1.SelectedIndex == 1)
+            {
+                pictureBox5.Image = Properties.Resources.p2_joseph;
+
+                label1.Text = "Joseph Joestar (ジョセフ・ジョースター, Josefu Jōsutā) é o protagonista da segunda parte de JoJo's Bizarre Adventure, Battle Tendency, e o segundo JoJo da série. Ele também aparece como um aliado primário em Stardust Crusaders, e como um aliado secundário em Diamond is Unbreakable.\r\n\r\nComo o neto de Jonathan Joestar, Joseph é um usuário natural de Hamon e um eventual usuário de Stand, tendo Hermit Purple como seu Stand. Um encrenqueiro exuberante com um talento excepcional para trapaças, Joseph encontra várias ameaças fantásticas aproximando-se dele durante sua vida com iniciativa e uma ingenuidade impressionante.";
+            }
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -294,7 +338,7 @@ namespace PEDRO_JOJO
             {
                 pictureBox5.Image = Properties.Resources.p1_dio;
 
-                label1.Text = "Dio Brando (ディオ・ブランドー, Dio Burandō), mais tarde conhecido simplesmente como DIO (DIOディオ), é o principal antagonista da primeira e terceira partes da série JoJo's Bizarre Adventure, Phantom Blood e Stardust Crusaders, bem como o primeiro personagem principal. antagonista da série em geral.Originalmente um homem de origem humilde, mas com ambição incomparável, Dio é um vilão astuto, de pouca consciência e com uma fome insaciável de poder. Depois de se tornar um vampiro, Dio parte para conquistar o mundo com um exército de zumbis sob seu comando, trazendo à tona uma rivalidade de longa data entre ele e seu irmão adotivo, Jonathan Joestar. Seu legado e influência persistem ao longo das primeiras seis partes de JoJo, com muitos personagens relacionados a ele ou inspirados por seu carisma e malícia.";
+                label1.Text = "Dio Brando (ディオ・ブランドー, Dio Burandō), mais tarde conhecido simplesmente como DIO (DIOディオ), é o principal antagonista da primeira e terceira partes da série JoJo's Bizarre Adventure, Phantom Blood e Stardust Crusaders, bem como o primeiro personagem principal. antagonista da série em geral.Originalmente um homem de origem humilde, mas com ambição incomparável, Dio é um vilão astuto, de pouca consciência e com uma fome insaciável de poder. Depois de se tornar um vampiro, Dio parte para conquistar o mundo com um exército de zumbis sob seu comando, trazendo à tona uma rivalidade de longa data entre ele e seu irmão adotivo, Jonathan Joestar.";
 
                 if (radioButton2.Checked == false)
                 {

@@ -118,11 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Design sem nome (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Design sem nome (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="JJJJ-removebg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\JJJJ-removebg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hamon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Design sem nome1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Design sem nome1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,6 +142,9 @@
   <data name="congelamento1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\congelamento1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="p4 poster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p4 poster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Luck&amp;Pluck" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Luck&amp;Pluck.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -163,8 +163,8 @@
   <data name="jotaro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\jotaro1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="hamon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hamon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="wryyyyyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wryyyyyy.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Design sem nome (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Design sem nome (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,14 +172,17 @@
   <data name="JoJo's_Bizarre_Adventure_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\JoJo's_Bizarre_Adventure_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="p4 poster" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\p4 poster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="JJJJ-removebg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JJJJ-removebg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="p1 jonathan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\p1 jonathan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Luck&amp;Pluck1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Luck&amp;Pluck1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gif p1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gif p1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="poster p3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\poster p3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -189,6 +192,9 @@
   </data>
   <data name="poster p6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\poster p6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Design sem nome (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Design sem nome (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="p1 dio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\p1 dio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -217,10 +223,22 @@
   <data name="Design sem nome (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Design sem nome (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gif p1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gif p1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="p2 ceasar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p2 ceasar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="wryyyyyy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wryyyyyy.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="p2 esidisi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p2 esidisi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p2 joseph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p2 joseph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p2 kars" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p2 kars.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p2 Lisa Lisa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p2 Lisa Lisa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p2 stroiheim" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p2 stroiheim.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
