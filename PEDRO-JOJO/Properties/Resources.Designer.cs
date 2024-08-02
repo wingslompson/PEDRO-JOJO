@@ -63,6 +63,16 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap aberturaaa {
+            get {
+                object obj = ResourceManager.GetObject("aberturaaa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap capa_botao_ {
             get {
                 object obj = ResourceManager.GetObject("capa botao]", resourceCulture);
@@ -243,6 +253,16 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap nigerandaioooo {
+            get {
+                object obj = ResourceManager.GetObject("nigerandaioooo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap overdrive {
             get {
                 object obj = ResourceManager.GetObject("overdrive", resourceCulture);
@@ -323,6 +343,36 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap p2_batbeg {
+            get {
+                object obj = ResourceManager.GetObject("p2_batbeg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p2_batbeg1 {
+            get {
+                object obj = ResourceManager.GetObject("p2_batbeg1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p2_bolhas {
+            get {
+                object obj = ResourceManager.GetObject("p2_bolhas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap p2_ceasar {
             get {
                 object obj = ResourceManager.GetObject("p2 ceasar", resourceCulture);
@@ -336,6 +386,16 @@ namespace PEDRO_JOJO.Properties {
         internal static System.Drawing.Bitmap p2_esidisi {
             get {
                 object obj = ResourceManager.GetObject("p2 esidisi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p2_hamon {
+            get {
+                object obj = ResourceManager.GetObject("p2_hamon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -373,9 +433,39 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap p2_pilarman {
+            get {
+                object obj = ResourceManager.GetObject("p2_pilarman", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p2_redatone {
+            get {
+                object obj = ResourceManager.GetObject("p2_redatone", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap p2_stroiheim {
             get {
                 object obj = ResourceManager.GetObject("p2 stroiheim", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p2_tempestade {
+            get {
+                object obj = ResourceManager.GetObject("p2_tempestade", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

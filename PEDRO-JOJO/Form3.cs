@@ -53,7 +53,7 @@ namespace PEDRO_JOJO
         {
             if (comboBox1.SelectedIndex == 0) 
             {
-                //limpa todas as labels e pictures box
+                //limpa todas as labels e pictures e check box
                 pictureBox5.Image = null;
                 pictureBox6.Image = null;
                 pictureBox7.Image = null;
@@ -62,10 +62,16 @@ namespace PEDRO_JOJO
                 pictureBox10.Image = null;
                 pictureBox11.Image = null;
                 pictureBox12.Image = null;
+                
                 label1.Text = "";
                 label2.Text = "";
 
-
+                checkBox1.Checked = false;
+                checkBox2.Checked = false;
+                checkBox3.Checked = false;
+                checkBox4.Checked = false;
+                checkBox5.Checked = false;
+                checkBox6.Checked = false;
 
 
                 //adiciona a imagem a pixture box
@@ -116,6 +122,12 @@ namespace PEDRO_JOJO
                 pictureBox12.Image = null;
                 label1.Text = "";
                 label2.Text = "";
+                checkBox1.Checked = false;
+                checkBox2.Checked = false;
+                checkBox3.Checked = false;
+                checkBox4.Checked = false;
+                checkBox5.Checked = false;
+                checkBox6.Checked = false;
 
 
                 //torna as group box visiveis
@@ -139,7 +151,7 @@ namespace PEDRO_JOJO
                 checkBox3.Text = "Bat Beg";
                 checkBox4.Text = "Red Stone";
                 checkBox5.Text = "Tempestade";
-                checkBox6.Text = "Manipulação";
+                checkBox6.Text = "Pilar Men";
             }
             else if (comboBox1.SelectedIndex == 2 ) 
             {
@@ -155,6 +167,13 @@ namespace PEDRO_JOJO
                 pictureBox12.Image = null;
                 label1.Text = "";
                 label2.Text = "";
+                checkBox1.Checked = false;
+                checkBox2.Checked = false;
+                checkBox3.Checked = false;
+                checkBox4.Checked = false;
+                checkBox5.Checked = false;
+                checkBox6.Checked = false;
+
 
 
                 //torna as group box visiveis
@@ -194,6 +213,13 @@ namespace PEDRO_JOJO
                 pictureBox12.Image = null;
                 label1.Text = "";
                 label2.Text = "";
+                checkBox1.Checked = false;
+                checkBox2.Checked = false;
+                checkBox3.Checked = false;
+                checkBox4.Checked = false;
+                checkBox5.Checked = false;
+                checkBox6.Checked = false;
+
 
 
                 //torna as group box visiveis
@@ -234,6 +260,13 @@ namespace PEDRO_JOJO
                 pictureBox12.Image = null;
                 label1.Text = "";
                 label2.Text = "";
+                checkBox1.Checked = false;
+                checkBox2.Checked = false;
+                checkBox3.Checked = false;
+                checkBox4.Checked = false;
+                checkBox5.Checked = false;
+                checkBox6.Checked = false;
+
 
 
                 //torna as group box visiveis
@@ -275,6 +308,13 @@ namespace PEDRO_JOJO
                 pictureBox12.Image = null;
                 label1.Text = "";
                 label2.Text = "";
+                checkBox1.Checked = false;
+                checkBox2.Checked = false;
+                checkBox3.Checked = false;
+                checkBox4.Checked = false;
+                checkBox5.Checked = false;
+                checkBox6.Checked = false;
+
 
 
                 //torna as group box visiveis
@@ -347,6 +387,22 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox5.Image = Properties.Resources.p2_ceasar;
+
+                label1.Text = "Caesar Anthonio Zeppeli (シーザー・アントニオ・ツェペリ, Shīzā Antonio Tseperi) é um aliado primário na segunda parte de JoJo's Bizarre Adventure, Battle Tendency.\r\n\r\nCaesar é um usuário italiano do Hamon e um discipulo da mestra do Hamon, Lisa Lisa. Ele é o neto de Will Anthonio Zeppeli e batalha os Homens do Pilar junto de Joseph Joestar para honrar sua herança como um Zeppeli.";
+
+                if (radioButton2.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
@@ -363,6 +419,22 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox5.Image = Properties.Resources.p2_Lisa_Lisa;
+
+                label1.Text = "Lisa Lisa (リサリサ Risa Risa), cujo nome verdadeiro é Elizabeth Joestar (エリザベス・ジョースター Erizabesu Jōsutā), é uma aliada central em Battle Tendency.Lisa Lisa é a esposa de George Joestar II e mãe de Joseph Joestar . Uma poderosa mestra Hamon, que atua como mentor de Joseph e Caesar Zeppeli. Residindo em Venezia, com um passado inicialmente desconhecido, ela lidera os esforços dos Usuários Hamon na luta contra os Homens do Pilar, revelando posteriormente sua conexão com Joseph durante o final da Battle Tendency.";
+                if (radioButton3.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+
+
         }
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
@@ -379,6 +451,19 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox5.Image = Properties.Resources.p2_kars;
+
+                label1.Text = "Kars (カーズ Kāzu) é o principal antagonista de Battle Tendency.Kars é o líder dos Homens do Pilar e o criador da Máscara de Pedra . Seu objetivo é evoluir ainda mais para se tornar imune aos raios do sol e, assim, ele busca a Pedra Vermelha de Aja para fortalecer suas Máscaras, lutando contra os usuários do Hamon por sua posse. Ele está classificado em 1º lugar entre todos os Homens do Pilar.Como o criador das Máscaras de Pedra e Vampiros, Kars é um dos personagens mais influentes da série; sua invenção teve repercussões de longo alcance para vários personagens importantes, como Dio Brando , a Família Joestar e a Família Zeppeli.";
+                if (radioButton4.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
@@ -388,6 +473,19 @@ namespace PEDRO_JOJO
                 pictureBox5.Image = Properties.Resources.p1_erina;
 
                 label1.Text = "Erina Pendleton (エリナ・ペンドルトン Erina Pendoruton) é uma personagem secundária e aliada que aparece em Phantom Blood e Battle Tendency.\r\n\r\nErina é uma jovem da cidade natal de Jonathan Joestar, que se torna seu interesse amoroso e ela eventualmente se torna sua esposa (o que agora a torna Erina Joestar ), a mãe de George Joestar II e a avó/tutora de Joseph Joestar.";
+                if (radioButton5.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox5.Image = Properties.Resources.p2_stroiheim;
+
+                label1.Text = "Rudol von Stroheim (ルドル・フォン・シュトロハイム Rudoru fon Shutorohaimu) é um aliado central em Battle Tendency.\r\n\r\nStroheim é apresentado como um oficial nazista pesquisando e experimentando o Homem do Pilar Santana. Eventualmente, ele e sua unidade cooperam com os usuários do Hamon para impedir a ameaça dos Homens do Pilar.";
                 if (radioButton5.Checked == false)
                 {
                     label1.Text = null;
@@ -412,6 +510,20 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox5.Image = Properties.Resources.p2_esidisi;
+
+                label1.Text = "Esidisi (エシディシ Eshidishi) é um antagonista apresentado em Battle Tendency.\r\n\r\nEle é o segundo Homem do Pilar mais bem classificado depois de Kars e luta contra os usuários do Hamon pela posse da Pedra Vermelha de Aja.";
+                if (radioButton6.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -447,6 +559,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox7.Image = Properties.Resources.p2_hamon;
+                if (checkBox1.Checked == false)
+                {
+
+                    pictureBox7.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
@@ -461,6 +585,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox8.Image = Properties.Resources.p2_bolhas;
+                if (checkBox2.Checked == false)
+                {
+
+                    pictureBox8.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
@@ -475,6 +611,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox9.Image = Properties.Resources.p2_batbeg1;
+                if (checkBox3.Checked == false)
+                {
+
+                    pictureBox9.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox5_CheckedChanged(object sender, EventArgs e)
@@ -489,6 +637,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox10.Image = Properties.Resources.p2_tempestade;
+                if (checkBox5.Checked == false)
+                {
+
+                    pictureBox10.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
@@ -503,6 +663,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox11.Image = Properties.Resources.p2_redatone;
+                if (checkBox4.Checked == false)
+                {
+
+                    pictureBox11.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox6_CheckedChanged(object sender, EventArgs e)
@@ -517,6 +689,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                pictureBox12.Image = Properties.Resources.p2_pilarman;
+                if (checkBox6.Checked == false)
+                {
+
+                    pictureBox12.Image = null;
+
+                }
+            }
+
         }
     }
 }

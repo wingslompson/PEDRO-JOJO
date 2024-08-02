@@ -124,6 +124,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\nigerandaioooo.gif" />
+    <None Include="Resources\aberturaaa.gif" />
+    <None Include="Resources\p2_batbeg1.jpg" />
+    <None Include="Resources\p2_hamon.jpg" />
+    <None Include="Resources\p2_bolhas.png" />
+    <None Include="Resources\p2_batbeg.jpg" />
+    <None Include="Resources\p2_tempestade.png" />
+    <None Include="Resources\p2_redatone.png" />
+    <None Include="Resources\p2_pilarman.png" />
     <None Include="Resources\p2 stroiheim.png" />
     <None Include="Resources\p2 Lisa Lisa.png" />
     <None Include="Resources\p2 kars.png" />
