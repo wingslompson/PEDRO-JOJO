@@ -545,6 +545,94 @@ namespace PEDRO_JOJO
 
 
             }
+
+            if (comboBox1.SelectedIndex == 1)
+            {
+                if (listBox1.SelectedIndex == 0)
+                {
+                    label2.Text = "A segunda parte Battle Tendency mostra o neto de Jonathan, Joseph Joestar, cruzando o mundo nos dias que antecederam a Segunda Guerra Mundial em 1938 para combater os Homens do Pilar, uma antiga raça de seres hostis responsáveis ​​pela criação da Máscara de Pedra. Como seu avô, Joseph passa por um árduo treinamento em Hamon ao lado de César Anthonio Zeppeli, neto de Will, pela secreta Lisa Lisa e tenta proteger a Pedra Vermelha de Aja, uma joia procurada pelos Homens do Pilar para completar a Máscara de Pedra e conceder imunidade ao Sol.";
+                     pictureBox6.Image = Properties.Resources.aberturaaa;
+                }
+
+                if (listBox1.SelectedIndex == 1)
+                {
+                    label2.Text = "Como inglês, ele é famoso por dizer várias frases em inglês. Seus bordões incluem \"OH! NÃO!\" (Usado na Parte 2 e na Parte 3 ) e \"Oh! Meu! Deus!\" (usado na Parte 3 e Parte 4 ) como alguns exemplos.\r\nNa parte 3, Joseph é erroneamente chamado de americano por alguns personagens, apesar de ser britânico. Isso se deve ao fato de que Joseph estava viajando por países da Ásia, e é comum que a maioria das pessoas que não falam inglês não saibam as diferenças de sotaque dos diferentes dialetos da língua inglesa.";
+                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                }
+
+
+            }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                if (listBox1.SelectedIndex == 0)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.aberturaaa;
+                }
+
+                if (listBox1.SelectedIndex == 1)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                }
+
+
+            }
+
+            if (comboBox1.SelectedIndex == 3)
+            {
+                if (listBox1.SelectedIndex == 0)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.aberturaaa;
+                }
+
+                if (listBox1.SelectedIndex == 1)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                }
+
+
+            }
+
+            if (comboBox1.SelectedIndex == 4)
+            {
+                if (listBox1.SelectedIndex == 0)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.aberturaaa;
+                }
+
+                if (listBox1.SelectedIndex == 1)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                }
+
+
+            }
+
+            if (comboBox1.SelectedIndex == 5)
+            {
+                if (listBox1.SelectedIndex == 0)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.aberturaaa;
+                }
+
+                if (listBox1.SelectedIndex == 1)
+                {
+                    label2.Text = "";
+                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                }
+
+
+            }
+
+            
+
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
