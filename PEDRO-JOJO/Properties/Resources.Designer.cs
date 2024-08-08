@@ -173,6 +173,26 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gif_p3 {
+            get {
+                object obj = ResourceManager.GetObject("gif p3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gif_p3_2 {
+            get {
+                object obj = ResourceManager.GetObject("gif p3 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hamon {
             get {
                 object obj = ResourceManager.GetObject("hamon", resourceCulture);
@@ -473,6 +493,66 @@ namespace PEDRO_JOJO.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap p3_avdol {
+            get {
+                object obj = ResourceManager.GetObject("p3_avdol", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p3_dio {
+            get {
+                object obj = ResourceManager.GetObject("p3_dio", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p3_iggy {
+            get {
+                object obj = ResourceManager.GetObject("p3_iggy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p3_jotaro {
+            get {
+                object obj = ResourceManager.GetObject("p3_jotaro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p3_kakioin {
+            get {
+                object obj = ResourceManager.GetObject("p3_kakioin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap p3_ponareff {
+            get {
+                object obj = ResourceManager.GetObject("p3_ponareff", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap p4_poster {
             get {
                 object obj = ResourceManager.GetObject("p4 poster", resourceCulture);
@@ -546,6 +626,66 @@ namespace PEDRO_JOJO.Properties {
         internal static System.Drawing.Bitmap poster_p6 {
             get {
                 object obj = ResourceManager.GetObject("poster p6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap standp3_fool {
+            get {
+                object obj = ResourceManager.GetObject("standp3_fool", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap standp3_greeb {
+            get {
+                object obj = ResourceManager.GetObject("standp3_greeb", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap standp3_red {
+            get {
+                object obj = ResourceManager.GetObject("standp3_red", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap standp3_silver {
+            get {
+                object obj = ResourceManager.GetObject("standp3_silver", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap standp3_star {
+            get {
+                object obj = ResourceManager.GetObject("standp3_star", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap standp3_wolrd {
+            get {
+                object obj = ResourceManager.GetObject("standp3_wolrd", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

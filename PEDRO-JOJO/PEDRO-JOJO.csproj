@@ -124,6 +124,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PngItem_832342.ico" />
+    <None Include="Resources\p3_jotaro.png" />
+    <None Include="Resources\p3_dio.png" />
+    <None Include="Resources\p3_kakioin.png" />
+    <None Include="Resources\p3_avdol.png" />
+    <None Include="Resources\p3_ponareff.png" />
+    <None Include="Resources\p3_iggy.png" />
+    <None Include="Resources\gif p3.gif" />
+    <None Include="Resources\gif p3 2.gif" />
+    <None Include="Resources\standp3_star.png" />
+    <None Include="Resources\standp3_wolrd.png" />
+    <None Include="Resources\standp3_greeb.png" />
+    <None Include="Resources\standp3_red.png" />
+    <None Include="Resources\standp3_silver.png" />
+    <None Include="Resources\standp3_fool.png" />
     <None Include="Resources\nigerandaioooo.gif" />
     <None Include="Resources\aberturaaa.gif" />
     <None Include="Resources\p2_batbeg1.jpg" />

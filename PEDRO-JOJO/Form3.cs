@@ -348,8 +348,7 @@ namespace PEDRO_JOJO
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            
+        {   
             if(comboBox1.SelectedIndex == 0 )
             {
                pictureBox5.Image = Properties.Resources.p1_jonathan;
@@ -369,7 +368,29 @@ namespace PEDRO_JOJO
                 pictureBox5.Image = Properties.Resources.p2_joseph;
 
                 label1.Text = "Joseph Joestar (ジョセフ・ジョースター, Josefu Jōsutā) é o protagonista da segunda parte de JoJo's Bizarre Adventure, Battle Tendency, e o segundo JoJo da série. Ele também aparece como um aliado primário em Stardust Crusaders, e como um aliado secundário em Diamond is Unbreakable.\r\n\r\nComo o neto de Jonathan Joestar, Joseph é um usuário natural de Hamon e um eventual usuário de Stand, tendo Hermit Purple como seu Stand. Um encrenqueiro exuberante com um talento excepcional para trapaças, Joseph encontra várias ameaças fantásticas aproximando-se dele durante sua vida com iniciativa e uma ingenuidade impressionante.";
+                if (radioButton1.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+
             }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox5.Image = Properties.Resources.p3_jotaro;
+
+                label1.Text = "Jotaro Kujo (空条 承太郎 Kūjō Jōtarō) é o protagonista da Parte 3 e também aparece nas Partes 4-6 Jotaro é o terceiro e o JoJo mais recorrente na série JoJo's Bizarre Adventure.\r\n\r\nJotaro é um delinquente que vive uma vida normal até que o velho inimigo da Família Joestar, DIO, retorna. Jotaro viaja para o Egito para salvar sua mãe e parar o Vampiro de uma vez por todas.\r\n\r\nEmpunhando o incrivelmente poderoso Star Platinum, Jotaro é o primeiro JoJo apresentado com um Stand e está entre os personagens mais conhecidos da série.";
+                if (radioButton1.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+
+            }
+
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -401,6 +422,23 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox5.Image = Properties.Resources.p3_dio;
+
+                label1.Text = "";
+                if (radioButton1.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+
+            }
+
+
+
 
 
         }
