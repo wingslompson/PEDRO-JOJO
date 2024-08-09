@@ -427,8 +427,8 @@ namespace PEDRO_JOJO
             {
                 pictureBox5.Image = Properties.Resources.p3_dio;
 
-                label1.Text = "";
-                if (radioButton1.Checked == false)
+                label1.Text = "Dio Brando (ディオ・ブランドーDio Burandō), conhecido como DIO da Parte 3 em diante, é o principal antagonista no universo original de JoJo's Bizarre Adventure, apresentado principalmente como o principal antagonista em Phantom Blood e Stardust Crusaders, e um antagonista chave póstumo em Stone Ocean.\r\n\r\nDepois de se tornar um Vampiro e mais tarde um usuário de Stand, Dio reuniu ao seu redor muitos lacaios e é responsável por muitos eventos importantes da série, desde a morte de Jonathan Joestar até a aquisição repentina do poder Stand pela Família Joestar, e seu legado persiste. ao longo da série.";
+                if (radioButton2.Checked == false)
                 {
                     label1.Text = null;
                     pictureBox5.Image = null;
@@ -471,6 +471,20 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox5.Image = Properties.Resources.p3_kakioin;
+
+                label1.Text = "Noriaki Kakyoin (花京院典明 Kakyōin Noriaki) é um aliado central em Stardust Crusaders e um estudante japonês que sofreu uma lavagem cerebral por DIO durante uma viagem anterior ao Egito e é enviado para matar Jotaro Kujo. Depois de se libertar da influência de DIO, ele decide se juntar a Jotaro em sua jornada ao Egito para salvar a mãe de Jotaro e encontrar a redenção.\r\n\r\nKakyoin é um Usuário de Stand e empunha o Hierophant Green de longo alcance.";
+                 if (radioButton3.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+
 
 
         }
@@ -502,6 +516,21 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox5.Image = Properties.Resources.p3_ponareff;
+
+                label1.Text = "Jean Pierre Polnareff (ジャン・ピエール・ポルナレフ Jan Piēru Porunarefu) é um aliado central e usuário de stand em Stardust Crusaders. Ele reaparece em Vento Aureo como um personagem secundário e aliado.\r\n\r\nEm Stardust Crusaders, o francês Polnareff inicialmente como um lacaio de DIO após ter um esporo de carne, ele viaja com o Grupo Joestar para vingar sua irmã Sherry, que foi assassinada por um homem com duas mãos direitas.";
+                if (radioButton4.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
@@ -531,6 +560,20 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox5.Image = Properties.Resources.p3_avdol;
+
+                label1.Text = "Muhammad Avdol (モハメド・アヴドゥル Mohamedo Avuduru) é um aliado central em Stardust Crusaders.\r\n\r\nApresentado como um amigo egípcio de Joseph Joestar, ele se junta ao grupo em sua jornada para derrotar DIO, fornecendo conhecimento e orientação sobre usuários de Stand inimigos e culturas locais ao longo do caminho.\r\n\r\nAvdol é um usuário de Stand e empunha o Stand de manipulação de fogo, Magician's Red."; 
+                if (radioButton5.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
         }
 
         private void radioButton6_CheckedChanged(object sender, EventArgs e)
@@ -561,6 +604,20 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox5.Image = Properties.Resources.p3_iggy;
+
+                label1.Text = "Iggy (イギー Igī) é um aliado central que aparece na segunda metade de Stardust Crusaders.\r\n\r\nUm vira-lata urbano das ruas de Nova York, Iggy relutantemente ajuda os protagonistas em sua última expedição ao Cairo, Egito, para derrotar DIO.\r\n\r\nIggy é um usuário do Stand que empunha o The Fool.";
+                if (radioButton6.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
 
         }
 
@@ -697,6 +754,18 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox7.Image = Properties.Resources.standp3_star;
+                if (checkBox1.Checked == false)
+                {
+
+                    pictureBox7.Image = null;
+
+                }
+            }
+
+
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
@@ -723,6 +792,19 @@ namespace PEDRO_JOJO
                 }
             }
 
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox8.Image = Properties.Resources.standp3_wolrd;
+                if (checkBox2.Checked == false)
+                {
+
+                    pictureBox8.Image = null;
+
+                }
+            }
+
+
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
@@ -741,6 +823,18 @@ namespace PEDRO_JOJO
             if (comboBox1.SelectedIndex == 1)
             {
                 pictureBox9.Image = Properties.Resources.p2_batbeg1;
+                if (checkBox3.Checked == false)
+                {
+
+                    pictureBox9.Image = null;
+
+                }
+            }
+
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox9.Image = Properties.Resources.standp3_greeb;
                 if (checkBox3.Checked == false)
                 {
 
@@ -775,6 +869,18 @@ namespace PEDRO_JOJO
                 }
             }
 
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox10.Image = Properties.Resources.standp3_silver;
+                if (checkBox5.Checked == false)
+                {
+
+                    pictureBox10.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
@@ -793,6 +899,18 @@ namespace PEDRO_JOJO
             if (comboBox1.SelectedIndex == 1)
             {
                 pictureBox11.Image = Properties.Resources.p2_redatone;
+                if (checkBox4.Checked == false)
+                {
+
+                    pictureBox11.Image = null;
+
+                }
+            }
+
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox11.Image = Properties.Resources.standp3_red;
                 if (checkBox4.Checked == false)
                 {
 
@@ -826,6 +944,18 @@ namespace PEDRO_JOJO
 
                 }
             }
+
+            if (comboBox1.SelectedIndex == 2)
+            {
+                pictureBox12.Image = Properties.Resources.standp3_fool;
+                if (checkBox6.Checked == false)
+                {
+
+                    pictureBox12.Image = null;
+
+                }
+            }
+
 
         }
     }

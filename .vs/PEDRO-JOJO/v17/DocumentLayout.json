@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{76EB114A-4C66-4E0D-94FB-B31B2E3C8F4F}|PEDRO-JOJO\\PEDRO-JOJO.csproj|C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\pedro-jojo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76EB114A-4C66-4E0D-94FB-B31B2E3C8F4F}|PEDRO-JOJO\\PEDRO-JOJO.csproj|solutionrelative:pedro-jojo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EB114A-4C66-4E0D-94FB-B31B2E3C8F4F}|PEDRO-JOJO\\PEDRO-JOJO.csproj|C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\pedro-jojo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76EB114A-4C66-4E0D-94FB-B31B2E3C8F4F}|PEDRO-JOJO\\PEDRO-JOJO.csproj|solutionrelative:pedro-jojo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EB114A-4C66-4E0D-94FB-B31B2E3C8F4F}|PEDRO-JOJO\\PEDRO-JOJO.csproj|C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\pedro-jojo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76EB114A-4C66-4E0D-94FB-B31B2E3C8F4F}|PEDRO-JOJO\\PEDRO-JOJO.csproj|solutionrelative:pedro-jojo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\PEDRO-JOJO\\Form1.cs",
+              "RelativeDocumentMoniker": "PEDRO-JOJO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\PEDRO-JOJO\\Form1.cs [Design]",
+              "RelativeToolTip": "PEDRO-JOJO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:07:50.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\PEDRO-JOJO\\Form2.cs",
+              "RelativeDocumentMoniker": "PEDRO-JOJO\\Form2.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\PEDRO-JOJO\\Form2.cs [Design]",
+              "RelativeToolTip": "PEDRO-JOJO\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:07:47.853Z"
             },
             {
               "$type": "Document",
@@ -32,7 +58,7 @@
               "RelativeDocumentMoniker": "PEDRO-JOJO\\Form3.cs",
               "ToolTip": "C:\\Users\\Aluno\\source\\repos\\wingslompson\\PEDRO-JOJO\\PEDRO-JOJO\\Form3.cs",
               "RelativeToolTip": "PEDRO-JOJO\\Form3.cs",
-              "ViewState": "AQIAAHoBAAAAAAAAAAAqwF8BAAAMAAAA",
+              "ViewState": "AQIAAJkDAAAAAAAAAAAUwLUDAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T00:51:43.684Z",
               "EditorCaption": ""
