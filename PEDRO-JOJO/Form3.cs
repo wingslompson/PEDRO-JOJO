@@ -193,10 +193,10 @@ namespace PEDRO_JOJO
                 //checkbox
 
                 checkBox1.Text = "Star Platinum";
-                checkBox2.Text = "Hierophant";
-                checkBox3.Text = "Silver Chariot";
-                checkBox4.Text = "The World";
-                checkBox5.Text = "Magicans Red";
+                checkBox2.Text = "The World";
+                checkBox3.Text = "Hierophant Green";
+                checkBox4.Text = "Magicans Red";
+                checkBox5.Text = "Silver Chariot";
                 checkBox6.Text = "The Fool";
             }
             else if (comboBox1.SelectedIndex == 3) 
@@ -391,6 +391,23 @@ namespace PEDRO_JOJO
 
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox5.Image = Properties.Resources.p4_josuke;
+
+                label1.Text = "Josuke Higashikata (東方 仗助, Higashikata Jōsuke; o Suke — 助 — em seu nome também pode ser pronunciado como \"Jo\") \r\né o protagonista de Diamond is Unbreakable e o quarto JoJo da série série JoJo's Bizarre Adventure.\r\nJosuke é um aluno do primeiro ano do ensino médio que mora na cidade de Morioh. Ele logo conhece Jotaro Kujo, \r\nque o informa que ele é filho ilegítimo de Joseph Joestar. Depois que seu avô morre, \r\nJosuke assume a responsabilidade de proteger sua amada cidade dos malévolos usuários do Stand.\r\nJosuke empunha Crazy Diamond, um poderoso Stand com o poder de consertar quase tudo.";
+                if (radioButton1.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+
+            }
+
+
+
+
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -437,6 +454,21 @@ namespace PEDRO_JOJO
 
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox5.Image = Properties.Resources.p4_koichi;
+
+                label1.Text = "Koichi Hirose (広瀬 康一 Hirose Kōichi) é o deuteragonista de Diamond is Unbreakable e aparece brevemente como um personagem \r\nsecundário em Vento Aureo.\r\nKoichi é um tímido aluno do primeiro ano do ensino médio que faz amizade com Josuke Higashikata e \r\ndepois se envolve no mundo dos usuários do Stand.\r\nKoichi também se torna um usuário de Stand e usa Echoes.";
+                if (radioButton2.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+
+            }
+
+
 
 
 
@@ -477,6 +509,19 @@ namespace PEDRO_JOJO
 
                 label1.Text = "Noriaki Kakyoin (花京院典明 Kakyōin Noriaki) é um aliado central em Stardust Crusaders e um estudante japonês que sofreu uma lavagem cerebral por DIO durante uma viagem anterior ao Egito e é enviado para matar Jotaro Kujo. Depois de se libertar da influência de DIO, ele decide se juntar a Jotaro em sua jornada ao Egito para salvar a mãe de Jotaro e encontrar a redenção.\r\n\r\nKakyoin é um Usuário de Stand e empunha o Hierophant Green de longo alcance.";
                  if (radioButton3.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox5.Image = Properties.Resources.p4_okuyasu;
+
+                label1.Text = "Okuyasu Nijimura (虹村 億泰 Nijimura Okuyasu) é um aliado central apresentado em Diamond is Unbreakable.\r\nApresentado como um antagonista, Okuyasu logo se torna o melhor amigo de Josuke Higashikata.\r\n Eles permanecem amigos íntimos durante a Parte 4 e enfrentam usuários malévolos do Stand juntos.\r\nEle também é o irmão mais novo de Keicho Nijimura e também um usuário de Stand empunhando o temível \" The Hand \"."; 
+                if (radioButton3.Checked == false)
                 {
                     label1.Text = null;
                     pictureBox5.Image = null;
@@ -530,6 +575,19 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox5.Image = Properties.Resources.p4_rohan;
+
+                label1.Text = "Rohan Kishibe (岸辺 露伴 Kishibe Rohan) é um importante aliado apresentado em Diamond is Unbreakable. Apresentado pela\r\n primeira vez como um antagonista, ele coopera na busca por Yoshikage Kira.\r\nUm mangaká profissional de sucesso, Rohan é frequentemente envolvido em eventos paranormais enquanto realiza pesquisas para \r\nseu último mangá. Ele é um usuário de Stand que usa seu Stand, Heaven's Door, para transformar outras\r\npessoas em livros e lê-los em busca de inspiração."; 
+                if (radioButton4.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
 
         }
 
@@ -566,6 +624,19 @@ namespace PEDRO_JOJO
                 pictureBox5.Image = Properties.Resources.p3_avdol;
 
                 label1.Text = "Muhammad Avdol (モハメド・アヴドゥル Mohamedo Avuduru) é um aliado central em Stardust Crusaders.\r\n\r\nApresentado como um amigo egípcio de Joseph Joestar, ele se junta ao grupo em sua jornada para derrotar DIO, fornecendo conhecimento e orientação sobre usuários de Stand inimigos e culturas locais ao longo do caminho.\r\n\r\nAvdol é um usuário de Stand e empunha o Stand de manipulação de fogo, Magician's Red."; 
+                if (radioButton5.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox5.Image = Properties.Resources.p4_jotaro;
+
+                label1.Text = "Jotaro Kujo (空条 承太郎 Kūjō Jōtarō) é o protagonista da Parte 3 e também aparece nas Partes 4-6 Jotaro é o terceiro e o JoJo \r\nmais recorrente na série JoJo's Bizarre Adventure.\r\nJotaro é um delinquente que vive uma vida normal até que o velho inimigo da Família Joestar, DIO, retorna. Jotaro viaja para \r\no Egito para salvar sua mãe e parar o Vampiro de uma vez por todas.\r\nEmpunhando o incrivelmente poderoso Star Platinum, Jotaro é o primeiro JoJo apresentado com um Stand e está entre os \r\npersonagens mais conhecidos da série.\r\n"; 
                 if (radioButton5.Checked == false)
                 {
                     label1.Text = null;
@@ -618,6 +689,19 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox5.Image = Properties.Resources.p4_kira;
+
+                label1.Text = "Yoshikage Kira (吉良 吉影 Kira Yoshikage) é o principal antagonista de Diamond is Unbreakable.\r\nDespercebido em Morioh por anos e imperturbável durante toda a sua vida, Yoshikage Kira é um serial killer anormal e \r\nparafílico cuja rotina é abalada quando o fantasma de sua primeira vítima, Reimi Sugimoto , implora ao Grupo Joestar para \r\nprocurá-lo e ele atrai atenção indesejada ao matar Shigekiyo Yangu. Kira é um usuário de Stand e empunha a poderosa Killer Queen,\r\n que tem a habilidade de criar bombas mortais"; 
+                if (radioButton6.Checked == false)
+                {
+                    label1.Text = null;
+                    pictureBox5.Image = null;
+
+                }
+            }
+
 
         }
 
@@ -662,14 +746,14 @@ namespace PEDRO_JOJO
             {
                 if (listBox1.SelectedIndex == 0)
                 {
-                    label2.Text = "";
-                    pictureBox6.Image = Properties.Resources.aberturaaa;
+                    label2.Text = "A terceira parte Stardust Crusaders é ambientada em 1989, quando o neto de Joseph, Jotaro Kujo, viaja com Joseph, Muhammad Avdol, Noriaki Kakyoin, Jean Pierre Polnareff e Iggy de Tóquio até o Cairo para lutar contra DIO, que voltou das profundezas do mar, para salvar sua mãe da influência sobrenatural de DIO. A partir de agora, aliados e vilões principalmente usam Stands, uma representação geralmente humanoide do espírito da pessoa, que se tornou uma das características mais proeminentes da série.";
+                    pictureBox6.Image = Properties.Resources.gif_p3;
                 }
 
                 if (listBox1.SelectedIndex == 1)
                 {
-                    label2.Text = "";
-                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                    label2.Text = "Stardust Crusaders contém os personagens e episódios mais conhecidos da série; apresentando o fenômeno Stand distinto de JoJo e o emblemático protagonista Jotaro Kujo.\r\nMuitos personagens não foram nomeados até o lançamento de materiais adicionais, como os livros de arte.\r\nAraki descreve a base da Parte 3 como um jogo de tabuleiro, viajando entre uma série de paradas; e mais inspiração no filme A Volta ao Mundo em 80 Dias.\r\nEnquanto ele começava a planejar este papel, Araki primeiro o apresentou como uma versão moderna de Drácula. Só havia uma pessoa na sala que achou que era uma boa ideia; o resto ficou totalmente confuso. Seus editores disseram a ele para ter pelo menos um personagem/arco de história japonês antes desta parte, pois sentiram que a história tinha muitos personagens e cenários estrangeiros para o público-alvo dos quadrinhos.\r\nA Parte 3 é a última a apresentar qualquer vampiro ou a habilidade Hamon.";
+                    pictureBox6.Image = Properties.Resources.gif_p3_2;
                 }
 
 
@@ -679,14 +763,14 @@ namespace PEDRO_JOJO
             {
                 if (listBox1.SelectedIndex == 0)
                 {
-                    label2.Text = "";
-                    pictureBox6.Image = Properties.Resources.aberturaaa;
+                    label2.Text = "A historia passa-se em 1999, a temporada segue as aventuras de Josuke Higashikata, o filho ilegítimo de Joseph Joestar, enquanto ele e seus novos\r\n amigos buscam um arco e flecha mágico que concedeu às pessoas poderes perigosos de Stand, arrancando a vida antes tranquila \r\nde Josuke em sua casa cidade de Morioh.";
+                    pictureBox6.Image = Properties.Resources.gif_p4;
                 }
 
                 if (listBox1.SelectedIndex == 1)
                 {
-                    label2.Text = "";
-                    pictureBox6.Image = Properties.Resources.nigerandaioooo;
+                    label2.Text = "Esta parte se destaca por se passar em um cenário fictício, sem viajar para nenhum local real.\r\nDeixando o Tarô e a mitologia egípcia na Parte 3, a Parte 4 faz referência principalmente à música popular (rock) em seus nomes.\r\nAraki afirma que é possível que JoJo's Bizarre Adventure pudesse ter terminado na Parte 3, já que a ressurreição de DIO foi o último elemento da trama do precedente.\r\nO título deste arco foi traduzido anteriormente como Diamond Is Not Crash.\r\nEsta parte é notável por ter uma das mudanças mais drásticas no estilo artístico à medida que progredia. No seu início,\r\n ele assumiu o visual musculoso inspirado no Fist of the North Star que esteve presente nas três partes anteriores. ";
+                    pictureBox6.Image = Properties.Resources.gif_p4_2;
                 }
 
 
@@ -765,6 +849,17 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox7.Image = Properties.Resources.standp4_crazy;
+                if (checkBox1.Checked == false)
+                {
+
+                    pictureBox7.Image = null;
+
+                }
+            }
+
 
         }
 
@@ -796,6 +891,17 @@ namespace PEDRO_JOJO
             if (comboBox1.SelectedIndex == 2)
             {
                 pictureBox8.Image = Properties.Resources.standp3_wolrd;
+                if (checkBox2.Checked == false)
+                {
+
+                    pictureBox8.Image = null;
+
+                }
+            }
+
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox8.Image = Properties.Resources.standp4_echoes;
                 if (checkBox2.Checked == false)
                 {
 
@@ -843,6 +949,17 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox9.Image = Properties.Resources.standp4_hand;
+                if (checkBox3.Checked == false)
+                {
+
+                    pictureBox9.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox5_CheckedChanged(object sender, EventArgs e)
@@ -873,6 +990,17 @@ namespace PEDRO_JOJO
             if (comboBox1.SelectedIndex == 2)
             {
                 pictureBox10.Image = Properties.Resources.standp3_silver;
+                if (checkBox5.Checked == false)
+                {
+
+                    pictureBox10.Image = null;
+
+                }
+            }
+
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox10.Image = Properties.Resources.standp4_door;
                 if (checkBox5.Checked == false)
                 {
 
@@ -919,6 +1047,17 @@ namespace PEDRO_JOJO
                 }
             }
 
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox11.Image = Properties.Resources.standp4_star;
+                if (checkBox4.Checked == false)
+                {
+
+                    pictureBox11.Image = null;
+
+                }
+            }
+
         }
 
         private void checkBox6_CheckedChanged(object sender, EventArgs e)
@@ -948,6 +1087,17 @@ namespace PEDRO_JOJO
             if (comboBox1.SelectedIndex == 2)
             {
                 pictureBox12.Image = Properties.Resources.standp3_fool;
+                if (checkBox6.Checked == false)
+                {
+
+                    pictureBox12.Image = null;
+
+                }
+            }
+
+            if (comboBox1.SelectedIndex == 3)
+            {
+                pictureBox12.Image = Properties.Resources.standp4_queen;
                 if (checkBox6.Checked == false)
                 {
 
